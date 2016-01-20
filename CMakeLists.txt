@@ -3,5 +3,5 @@ project(CProgs)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-set(SOURCE_FILES 15.cpp)
+set(SOURCE_FILES 07.cpp)
 add_executable(CProgs ${SOURCE_FILES})
